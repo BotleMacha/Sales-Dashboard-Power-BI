@@ -79,7 +79,7 @@ The goal is to provide **clear, data-driven insights** that support better busin
 ![Geographic](geographic.png)
 
 ### 📦 Product Analysis
-![Product](product .png)
+![Product](product.png)
 
 ### 🔮 Forecasting
 ![Forecast](forecast.png)
