@@ -75,6 +75,7 @@ The goal is to provide **clear, data-driven insights** that support better busin
 > Add screenshots here after uploading images to your repo
 
 ```markdown
-![Overview](images/overview.png)
+![Overview]<img width="1342" height="744" alt="image" src="https://github.com/user-attachments/assets/af69de96-9418-42e5-928a-4094c2ad2b96" />
+
 ![Customer Analysis](images/customer.png)
 ![Forecast](images/forecast.png)
